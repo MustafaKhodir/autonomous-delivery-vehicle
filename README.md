@@ -1,3 +1,5 @@
+<sub>Copyright 2026 Mustafa Khodir. All rights reserved. Photos, videos and designs may not be reused without permission.</sub>
+
 # Autonomous Delivery Vehicle for Elderly Care
 
 A proof of concept for a small autonomous car that carries medication and snacks to older people in a care home. It drives itself using ultrasonic sensors to avoid walls and furniture, and carries the items in a 3D printed holder I designed. We called the product AFEX30, short for Autonomous For Elderly, and I made the logo and the slogan: "Driving a better future for our elderlies, a sensor reading at a time."
@@ -79,7 +81,7 @@ To rebuild the car you would need:
 
 ## Source code
 
-The full source code is kept in a private repository. To review it, [email me](mailto:mkhodir77@gmail.com?subject=Code%20access%3A%20autonomous-delivery-vehicle) with your name, company and GitHub username, and I will give you read access.
+The code for this team project is not part of this portfolio. I am happy to walk through the design, the build and the testing. Contact me at [mkhodir77@gmail.com](mailto:mkhodir77@gmail.com).
 
 ## What's in this repo
 
@@ -98,4 +100,4 @@ The full source code is kept in a private repository. To review it, [email me](m
 
 The full project report is available on request.
 
-Copyright 2026 Mustafa Khodir. All rights reserved.
+Copyright 2026 Mustafa Khodir. All rights reserved. Photos, videos and designs may not be reused without permission.
