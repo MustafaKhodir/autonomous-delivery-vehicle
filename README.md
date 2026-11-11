@@ -1,6 +1,8 @@
 # Autonomous Delivery Vehicle for Elderly Care
 
-A proof of concept for a small autonomous car that carries medication and snacks to older people in a care home. It drives itself using ultrasonic sensors to avoid walls and furniture, and carries the items in a 3D printed holder I designed. We called the product AFEX30, short for Autonomous For Elderly, and I made the logo and the slogan: "Driving a better future for our elderlies, a sensor reading at a time."
+A proof of concept for a small autonomous car that carries medication and snacks to older people in a care home. It drives itself using ultrasonic sensors to avoid walls and furniture, and carries the items in a 3D printed holder I designed. We called the product AFEX30, short for Autonomous For Elderly, and I made the logo and the slogan: "Driving a better future for our elderly, a sensor reading at a time."
+
+The car ran in our final demo. The only footage I have is a bench test of the drive motor, so the obstacle avoidance is described here rather than shown in a video.
 
 ![The finished car with two ultrasonic sensors on the printed front mount and the red printed side holders](media/photos/car-front-ultrasonic-sensors.jpg)
 
